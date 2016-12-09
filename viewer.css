@@ -1399,7 +1399,7 @@ a:focus > .thumbnail > .thumbnailSelectionRing,
 #outlineView,
 #attachmentsView {
   position: absolute;
-  width: 192px;
+  width: 292px;
   top: 0;
   bottom: 0;
   overflow: auto;
