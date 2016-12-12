@@ -5,16 +5,27 @@
 
 ## C/C++
 
-- [Modern C](/viewer.html?file=docs/clang/ModernC.pdf)
 - [C FAQ](/viewer.html?file=docs/clang/cfaq.pdf)
+- [Modern C](/viewer.html?file=docs/clang/ModernC.pdf)
+- [The C Programming language Second Edition](/viewer.html?file=docs/clang/TCPL2E.pdf)
 - [C++ Primer Fifth Edition](/viewer.html?file=docs/cpp/CppPrimerFifthEdition.pdf)
 - [The C++ Programming Language Fourth Edition](/viewer.html?file=docs/cpp/TCPPPL4E.pdf)
 - [More Effective C++](/viewer.html?file=docs/effective/MoreEffectiveCPP.pdf)
-- [Effective C++ 3rd](/viewer.html?file=docs/effective/EffectiveCPP3rd.pdf)
-- [Effective Modern C++](/viewer.html?file=docs/effective/EffectiveModernCPP.pdf)
+- [Effective C++](/viewer.html?file=docs/effective/EffectiveCPP3.pdf)
 - [Effective STL](/viewer.html?file=docs/effective/EffectiveSTL.pdf)
-- [C++ Object Model](/viewer.html?file=docs/cpp/CppObjectModel.pdf)
+- [Effective Modern C++](/viewer.html?file=docs/effective/EffectiveModernCPP.pdf)
+- [Inside The C++ Object Model](/viewer.html?file=docs/effective/InsideTheCppObjectModel.pdf)([chm](/docs/effective/TheDesignAndEvolutionOfCpp.chm))
+- [C++ Object Model(Handouts)](/viewer.html?file=docs/cpp/CppObjectModel.pdf)
 - [The Design And Evolution Of C++](/viewer.html?file=docs/cpp/TheDesignAndEvolutionOfCpp.pdf)
+- [Optimizing C++](/viewer.html?file=docs/effective/optimizingCpp.pdf)
+- [The C11 and C++11 Concurrency Model](/viewer.html?file=docs/effective/TheC11andCpp11ConcurrencyModel.pdf)
+
+## Zoom table
+
+[STL Quick Reference](/viewer.html?file=docs/cpplibrary/STLQuickReference.pdf)
+[C++11 STL additions](/viewer.html?file=docs/cpplibrary/Cpp11STLAdditions.pdf)
+[C++ Concurrency](/viewer.html?file=docs/cpplibrary/CppConcurrency.pdf)
+[C++11 ECMAScript regex](/viewer.html?file=docs/cpplibrary/C++11ECMAScriptRegex.pdf)
 
 ## Operating System
 
