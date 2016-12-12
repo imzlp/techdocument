@@ -21,12 +21,12 @@
 - [Optimizing C++](/viewer.html?file=docs/effective/optimizingCpp.pdf)
 - [The C11 and C++11 Concurrency Model](/viewer.html?file=docs/effective/TheC11andCpp11ConcurrencyModel.pdf)
 
-## Zoom table
+## Cheat Sheets
 
-- [STL Quick Reference](/viewer.html?file=docs/cppZoomTable/STLQuickReference.pdf)
-- [C++11 STL additions](/viewer.html?file=docs/cppZoomTable/Cpp11STLAdditions.pdf)
-- [C++ Concurrency](/viewer.html?file=docs/cppZoomTable/CppConcurrency.pdf)
-- [C++11 ECMAScript regex](/viewer.html?file=docs/cppZoomTable/C++11ECMAScriptRegex.pdf)
+- [STL Quick Reference](/viewer.html?file=docs/cppCheatSheets/STLQuickReference.pdf)
+- [C++11 STL additions](/viewer.html?file=docs/cppCheatSheets/Cpp11STLAdditions.pdf)
+- [C++ Concurrency](/viewer.html?file=docs/cppCheatSheets/CppConcurrency.pdf)
+- [C++11 ECMAScript regex](/viewer.html?file=docs/cppCheatSheets/C++11ECMAScriptRegex.pdf)
 
 ## Operating System
 
