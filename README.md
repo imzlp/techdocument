@@ -1,12 +1,13 @@
 ## Language Standard
 
-- [C Standard ISO/IEC 9899:1999 (E)](/viewer.html?file=docs/standard/isoc99.pdf)
+- [C Standard ISO/IEC 9899:1999(E)](/viewer.html?file=docs/standard/isoc99.pdf)
 - [CPP Standard ISO/IEC 14882:2014(E)](/viewer.html?file=docs/standard/isocpp2014.pdf)
 
 ## C/C++
 
 - [Modern C](/viewer.html?file=docs/clang/ModernC.pdf)
 - [C FAQ](/viewer.html?file=docs/clang/cfaq.pdf)
+- [C++ Primer Fifth Edition](/viewer.html?file=docs/cpp/CppPrimerFifthEdition.pdf)
 - [The C++ Programming Language Fourth Edition](/viewer.html?file=docs/cpp/TCPPPL4E.pdf)
 - [More Effective C++](/viewer.html?file=docs/effective/MoreEffectiveCPP.pdf)
 - [Effective C++ 3rd](/viewer.html?file=docs/effective/EffectiveCPP3rd.pdf)
