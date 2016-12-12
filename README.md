@@ -8,6 +8,7 @@
 - [Modern C](/viewer.html?file=docs/clang/ModernC.pdf)
 - [C FAQ](/viewer.html?file=docs/clang/cfaq.pdf)
 - [The C++ Programming Language Fourth Edition](/viewer.html?file=docs/cpp/TCPPPL4E.pdf)
+- [More Effective C++](/viewer.html?file=docs/effective/MoreEffectiveCPP.pdf)
 - [Effective C++ 3rd](/viewer.html?file=docs/effective/EffectiveCPP3rd.pdf)
 - [Effective Modern C++](/viewer.html?file=docs/effective/EffectiveModernCPP.pdf)
 - [Effective STL](/viewer.html?file=docs/effective/EffectiveSTL.pdf)
@@ -40,5 +41,3 @@
 - [Linux Documentation](https://linux.die.net/)
 - [UNIX MAN PAGES](http://www.unix.com/man-page-repository.php)
 - [POSIX System Interfaces](http://pubs.opengroup.org/onlinepubs/9699919799/functions/contents.html)
-
-
