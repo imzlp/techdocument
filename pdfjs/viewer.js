@@ -5609,9 +5609,9 @@ var pdfjsWebLibs;
    var DEFAULT_SCALE_DELTA = 1.1;
    var DISABLE_AUTO_FETCH_LOADING_BAR_TIMEOUT = 5000;
    function configure(PDFJS) {
-    PDFJS.imageResourcesPath = '../images/';
+    PDFJS.imageResourcesPath = 'images/';
     PDFJS.workerSrc = 'pdf.worker.js';
-    PDFJS.cMapUrl = '../cmaps/';
+    PDFJS.cMapUrl = 'cmaps/';
     PDFJS.cMapPacked = true;
    }
    var DefaultExernalServices = {
