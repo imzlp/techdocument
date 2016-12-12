@@ -7564,12 +7564,12 @@
     useRequireEnsure = true;
    }
    if (typeof requirejs !== 'undefined' && requirejs.toUrl) {
-    workerSrc = requirejs.toUrl('pdfjs/pdf.worker.js');
+    workerSrc = requirejs.toUrl('./pdf.worker.js');
    }
    var dynamicLoaderSupported = typeof requirejs !== 'undefined' && requirejs.load;
    fakeWorkerFilesLoader = useRequireEnsure ? function (callback) {
     require.ensure([], function () {
-     var worker = require('pdfjs/pdf.worker.js');
+     var worker = require('./pdf.worker.js');
      callback(worker.WorkerMessageHandler);
     });
    } : dynamicLoaderSupported ? function (callback) {
