@@ -4,8 +4,8 @@ var langs = [
 
 self.$config = {
   title: 'Document',
-  repo: 'hxhb/document',
-  'edit-link': 'https://github.com/hxhb/document',
+  repo: 'hxhb/techdocument',
+  'edit-link': 'https://github.com/hxhb/techdocument',
   nav: {
     default: [
       {
