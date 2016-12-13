@@ -1,6 +1,6 @@
 ## Language Standard
 
-- [C Standard ISO/IEC 9899:1999(E)](/viewer.html?file=docs/standard/isoc99.pdf)
+- [C Standard ISO/IEC 9899:2011(E)](/viewer.html?file=docs/standard/isoc11.pdf)([CPP](/viewer.html?file=docs/standard/isoc99.pdf))
 - [CPP Standard ISO/IEC 14882:2014(E)](/viewer.html?file=docs/standard/isocpp2014.pdf)
 
 ## C/C++
@@ -26,7 +26,7 @@
 - [STL Quick Reference](/viewer.html?file=docs/cppCheatSheets/STLQuickReference.pdf)
 - [C++11 STL additions](/viewer.html?file=docs/cppCheatSheets/Cpp11STLAdditions.pdf)
 - [C++ Concurrency](/viewer.html?file=docs/cppCheatSheets/CppConcurrency.pdf)
-- [C++11 ECMAScript regex](/viewer.html?file=docs/cppCheatSheets/C++11ECMAScriptRegex.pdf)
+- [C++11 ECMAScript regex](/viewer.html?file=docs/cppCheatSheets/Cpp11ECMAScriptRegex.pdf)
 
 ## Operating System
 
