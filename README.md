@@ -1,6 +1,6 @@
 ## Language Standard
 
-- [C Standard ISO/IEC 9899:2011(E)](/viewer.html?file=docs/standard/isoc11.pdf)([CPP](/viewer.html?file=docs/standard/isoc99.pdf))
+- [C Standard ISO/IEC 9899:2011(E)](/viewer.html?file=docs/standard/isoc11.pdf)([C99](/viewer.html?file=docs/standard/isoc99.pdf))
 - [CPP Standard ISO/IEC 14882:2014(E)](/viewer.html?file=docs/standard/isocpp2014.pdf)
 
 ## C/C++
