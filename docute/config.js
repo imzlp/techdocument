@@ -5,6 +5,7 @@ var langs = [
 self.$config = {
   title: 'Document',
   repo: 'hxhb/techdocument',
+  zhihu: 'visionsmile',
   'edit-link': 'https://github.com/hxhb/techdocument/blob/master',
   nav: {
     default: [
