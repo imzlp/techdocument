@@ -11,7 +11,7 @@
 - [C++ Primer Fifth Edition](/viewer.html?file=docs/cpp/CppPrimerFifthEdition.pdf)
 - [The C++ Programming Language Fourth Edition](/viewer.html?file=docs/cpp/TCPPPL4E.pdf)
 - [More Effective C++](/viewer.html?file=docs/effective/MoreEffectiveCPP.pdf)
-- [Effective C++](/viewer.html?file=docs/effective/EffectiveCPP3.pdf)
+- [Effective C++](/viewer.html?file=docs/effective/EffectiveCPP.pdf)
 - [Effective STL](/viewer.html?file=docs/effective/EffectiveSTL.pdf)
 - [Effective Modern C++](/viewer.html?file=docs/effective/EffectiveModernCPP.pdf)
 - [Inside The C++ Object Model](/viewer.html?file=docs/effective/InsideTheCppObjectModel.pdf)([chm](http://
