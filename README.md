@@ -34,6 +34,7 @@
 - [Advanced Programming in the UNIX® Environment](/viewer.html?file=docs/operatingSystem/APUE3rd.pdf)
 - [ UNIX Network Programming Volume 1, Third Edition: The Sockets Networking API](/viewer.html?file=docs/operatingSystem/UNP3rdSockrtAPI.pdf)
 - [The Linux Programming Interface-Michael Kerrisk](/viewer.html?file=docs/operatingSystem/TLPIMK.pdf)
+- [IEEE STD POSIX1003.1:2008](/viewer.html?file=docs/operatingSystem/IEEEStdPOSIX1003dot1-2008.pdf)
 
 ## Paper
 
