@@ -34,7 +34,7 @@
 - [Advanced Programming in the UNIX® Environment](/viewer.html?file=docs/operatingSystem/APUE3rd.pdf)
 - [ UNIX Network Programming Volume 1, Third Edition: The Sockets Networking API](/viewer.html?file=docs/operatingSystem/UNP3rdSockrtAPI.pdf)
 - [The Linux Programming Interface-Michael Kerrisk](/viewer.html?file=docs/operatingSystem/TLPIMK.pdf)
-- [IEEE STD POSIX1003.1:2008](/viewer.html?file=docs/operatingSystem/IEEE-Std-1003-1-2008.pdf)
+- [IEEE Std 1003.1:2008](/viewer.html?file=docs/operatingSystem/IEEE-Std-1003-1-2008.pdf)
 - [ISO/IEC/IEEE 9945:2009/Cor.1:2013(E)](/viewer.html?file=docs/operatingSystem/ISOIEC-IEEE9945-2009Cor1-2013.pdf)
 
 >The family of POSIX standards is formally designated as IEEE 1003 and the international standard name is ISO/IEC 9945.
