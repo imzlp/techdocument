@@ -34,10 +34,6 @@
 - [Advanced Programming in the UNIX® Environment](/viewer.html?file=docs/operatingSystem/APUE3rd.pdf)
 - [ UNIX Network Programming Volume 1, Third Edition: The Sockets Networking API](/viewer.html?file=docs/operatingSystem/UNP3rdSockrtAPI.pdf)
 - [The Linux Programming Interface-Michael Kerrisk](/viewer.html?file=docs/operatingSystem/TLPIMK.pdf)
-- [IEEE STD POSIX1003.1:2008](/viewer.html?file=docs/operatingSystem/IEEE-Std-1003-1-2008.pdf)
-- [ISO/IEC/IEEE 9945:2009/Cor.1:2013(E)](/viewer.html?file=docs/operatingSystem/ISOIEC-IEEE9945-2009Cor1-2013.pdf)
-
->POSIX是IEEE为要在各种UNIX操作系统上运行软件，而定义API的一系列互相关联的标准的总称，其正式称呼为IEEE Std 1003，而国际标准名称为ISO/IEC 9945
 
 ## Paper
 
