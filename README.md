@@ -39,6 +39,12 @@
 
 >The family of POSIX standards is formally designated as IEEE 1003 and the international standard name is ISO/IEC 9945.
 
+## Think
+
+- [Structure and Interpretation of Computer Programs](/viewer.html?file=docs/PopularizationOfScience/sicp.pdf)
+- [Code:The Hidden Language of Computer Hardware and Software](/viewer.html?file=docs/PopularizationOfScience/Code.The.Hidden.Language.of.Computer.Hardware.and.Software.pdf)
+- [Code Complete Second Edition](/viewer.html?file=docs/PopularizationOfScience/Code.Complete.2nd.Steve.McConnell.pdf)
+
 ## Paper
 
 - [What is Object-Oriented Programming(1991 revised version)](/viewer.html?file=docs/paper/WhatisObject-OrientedProgramming.pdf)
@@ -58,3 +64,4 @@
 - [Linux Documentation](https://linux.die.net/)
 - [UNIX MAN PAGES](http://www.unix.com/man-page-repository.php)
 - [POSIX System Interfaces](http://pubs.opengroup.org/onlinepubs/9699919799/functions/contents.html)
+
