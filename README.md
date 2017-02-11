@@ -41,9 +41,9 @@
 
 ## Think
 
-- [Structure and Interpretation of Computer Programs](/viewer.html?file=docs/PopularizationOfScience/sicp.pdf)
-- [Code:The Hidden Language of Computer Hardware and Software](/viewer.html?file=docs/PopularizationOfScience/Code.The.Hidden.Language.of.Computer.Hardware.and.Software.pdf)
-- [Code Complete Second Edition](/viewer.html?file=docs/PopularizationOfScience/Code.Complete.2nd.Steve.McConnell.pdf)
+- [Structure and Interpretation of Computer Programs](/viewer.html?file=docs/popularizationOfScience/sicp.pdf)
+- [Code:The Hidden Language of Computer Hardware and Software](/viewer.html?file=docs/popularizationOfScience/Code.The.Hidden.Language.of.Computer.Hardware.and.Software.pdf)
+- [Code Complete Second Edition](/viewer.html?file=docs/popularizationOfScience/Code.Complete.2nd.Steve.McConnell.pdf)
 
 ## Paper
 
